@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>tvseg_ui::FeedbackDockWidget</class>
+ <widget class="QDockWidget" name="tvseg_ui::FeedbackDockWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>384</width>
+    <height>406</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Feedback</string>
+  </property>
+  <widget class="tvseg_ui::FeedbackWidget" name="feedbackWidget"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>tvseg_ui::FeedbackWidget</class>
+   <extends>QWidget</extends>
+   <header>feedbackwidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

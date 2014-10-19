@@ -1,0 +1,13 @@
+*.pro.user
+*.o
+moc_*
+ui_*
+*.log
+.qmake.stash
+/tvseg
+/Makefile
+/scribbles.png
+/.tmp
+/results
+/image_capture
+/simu_img

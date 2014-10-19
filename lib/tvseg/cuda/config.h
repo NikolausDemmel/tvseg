@@ -1,0 +1,9 @@
+#ifndef TVSEG_CUDA_CONFIG_H
+#define TVSEG_CUDA_CONFIG_H
+
+
+#define BLOCKDIMX 16
+#define BLOCKDIMY 16
+
+
+#endif // TVSEG_CUDA_CONFIG_H
