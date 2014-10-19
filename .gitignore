@@ -8,6 +8,7 @@ ui_*
 /Makefile
 /scribbles.png
 /.tmp
-/results
-/image_capture
-/simu_img
+/image_capture/mex*
+/results/*/
+
+
