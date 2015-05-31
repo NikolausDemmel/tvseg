@@ -63,9 +63,9 @@ through the GUI can be found in documentation for [settings](doc/settings.md).
 
 ### Theory
 
-There is a [report](doc/pdf/report-small.pdf) describing spatially varying color
-and depth distributions as implemented by tvseg and an accompanying set of
-[slides](doc/pdf/slides-small.pdf).
+There is a [report](doc/pdf/demmel2014idp_report_small.pdf) describing spatially
+varying color and depth distributions as implemented by tvseg and an
+accompanying set of [slides](doc/pdf/demmel2014idp_slides_small.pdf).
 
 ### Code structure overview ###
 

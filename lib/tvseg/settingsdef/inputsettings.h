@@ -12,7 +12,7 @@
     (bool, loadGroundTruth, true)                           \
     (bool, loadScribbles, true)                             \
     (bool, loadSettings, true)                              \
-    (std::string, colorMatch, "_color\\(..*)")              \
+    (std::string, colorMatch, "_color(..*)")              \
     (std::string, depthReplace, "_depth\\1")                \
     (std::string, groundTruthReplace, "_label\\1")          \
     (std::string, groundTruthLabelMappingReplace, "_label_mapping.txt") \
